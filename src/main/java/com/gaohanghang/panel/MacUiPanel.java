@@ -1,4 +1,4 @@
-package top.ghang.panel;
+package com.gaohanghang.panel;
 
 import javax.swing.*;
 import java.awt.*;

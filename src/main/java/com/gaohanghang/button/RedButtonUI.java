@@ -1,4 +1,4 @@
-package top.ghang.button;
+package com.gaohanghang.button;
 
 import javax.swing.*;
 import javax.swing.plaf.basic.BasicButtonUI;

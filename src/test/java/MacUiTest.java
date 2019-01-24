@@ -1,7 +1,4 @@
-import org.junit.Test;
-import top.ghang.MacUiFrame;
-import top.ghang.button.GreenButtonUI;
-import top.ghang.panel.MacUiPanel;
+import com.gaohanghang.MacUiFrame;
 
 /**
  * @Description:
